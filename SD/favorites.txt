@@ -1,0 +1,11 @@
+/any/apps/Misc/totp.fap
+/any/apps/Wireless/hid_ble.fap
+/any/apps/Tools/Calculator.fap
+/any/apps/GPIO/flashlight.fap
+/any/apps/Tools/hex_viewer.fap
+/any/apps/Tools/Multi_Converter.fap
+/any/apps/Misc/passgen.fap
+/any/apps/Wireless/Signal_Generator.fap
+/any/apps/Wireless/Spectrum_Analyzer.fap
+/any/apps/GPIO/UART_Echo.fap
+/any/apps/USB/USB_Keyboard.fap
