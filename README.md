@@ -10,3 +10,5 @@ Some files may require minor edits in order to compensate for not including my d
 You want to copy these to your SD using a card reader instead of the Flipper, or it will take forever.
 
 If I upload your work here and you want credit, please message me and let me know.
+
+I run the latest version of Unleashed CFW.
