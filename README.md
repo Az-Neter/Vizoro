@@ -1,5 +1,5 @@
 # Vizoro
-![Vizoro](https://github.com/Az-Neter/Vizoro/blob/main/Vizoro.png)
+![Vizoro](https://github.com/Az-Neter/Vizoro/blob/main/Vizoro.png)  
 Personal Files for my Flipper Zero.
 
 If you want to use anything here, just copy it to your own folder of the same name on your Flipper's SD card.
